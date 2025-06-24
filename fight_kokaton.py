@@ -1,8 +1,8 @@
 import os
+import math
 import random
 import sys
 import time
-import math
 import pygame as pg
 
 WIDTH = 1100    # ゲームウィンドウの幅
